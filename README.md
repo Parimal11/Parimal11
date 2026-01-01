@@ -1,21 +1,21 @@
-# [cite_start]Hi, I'm Parimal Deshmukh 👋 [cite: 1]
+# Hi, I'm Parimal Deshmukh 👋
 
-### Software Engineer | Backend Specialist | [cite_start]Ex-Cisco [cite: 4, 15]
+### Software Engineer | Backend Specialist | Ex-Cisco
 
-[cite_start]I am a **Java Software Engineer** with **1 year of experience** at **Cisco**, specializing in building enterprise applications using **Java/J2EE, Spring Boot, and Microservices**[cite: 4, 14, 15, 16, 18]. [cite_start]I am passionate about clean code, system design, and leveraging **GenAI-assisted development** to drive engineering efficiency[cite: 5, 11].
+I am a **Java Software Engineer** with **1 year of experience** at **Cisco**, specializing in building enterprise applications using **Java/J2EE, Spring Boot, and Microservices**. I am passionate about clean code, system design, and leveraging **GenAI-assisted development** to drive engineering efficiency.
 
 ---
 
 ### 🚀 Professional Impact
 
-* [cite_start]**🏆 Hackathon Winner**: Won the **WebEx Playtime Hackathon** for developing innovative features that drove user engagement[cite: 18].
-* [cite_start]**⚡ Engineering Efficiency**: Leveraged **GenAI tools** (GitHub Copilot, ChatGPT) to improve development productivity by **30%**[cite: 21].
-* [cite_start]**⛓️ DevOps & CI/CD**: Integrated pipelines using **Jenkins, Git, and Docker**, achieving **40% faster deployments**[cite: 20].
-* [cite_start]**🛡️ System Reliability**: Reduced downtime by **25%** through real-time monitoring and log analysis with **Grafana and Kibana**[cite: 23].
+* **🏆 Hackathon Winner**: Won the **WebEx Playtime Hackathon** for developing innovative features that drove user engagement.
+* **⚡ Engineering Efficiency**: Leveraged **GenAI tools** (GitHub Copilot, ChatGPT) to improve development productivity by **30%**.
+* **⛓️ DevOps & CI/CD**: Integrated pipelines using **Jenkins, Git, and Docker**, achieving **40% faster deployments**.
+* **🛡️ System Reliability**: Reduced downtime by **25%** through real-time monitoring and log analysis with **Grafana and Kibana**.
 
 ---
 
-### [cite_start]🛠️ Tech Stack [cite: 7, 8, 9, 10]
+### 🛠️ Tech Stack
 
 **Languages & Frameworks** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -25,22 +25,22 @@
 
 ---
 
-### [cite_start]📂 Key Projects [cite: 26, 30]
+### 📂 Key Projects
 
-* [cite_start]**Healthcare Medicine E-Commerce Platform**: Built a full-stack medicine delivery app with **20+ RESTful APIs** and zero-downtime releases on **AWS**[cite: 26, 28, 29].
-* [cite_start]**Travel Booking Application**: Developed a multi-mode booking platform (cabs, autos, buses) using **Spring Data JPA** for complex database operations[cite: 30].
+* **Healthcare Medicine E-Commerce Platform**: Built a full-stack medicine delivery app with **20+ RESTful APIs** and zero-downtime releases on **AWS**.
+* **Travel Booking Application**: Developed a multi-mode booking platform (cabs, autos, buses) using **Spring Data JPA** for complex database operations.
 
 ---
 
 ### 📈 Education & Achievements
 
-* **Education**: B.E. in Computer Science | [cite_start]**CGPA: 8.42/10.0**[cite: 32].
-* [cite_start]**DSA**: **150+ problems** solved on LeetCode, GFG, and HackerRank (Strong in Arrays, Trees, DP)[cite: 35].
-* [cite_start]**Languages**: English, Hindi, Marathi[cite: 36].
+* **Education**: B.E. in Computer Science | **CGPA: 8.42/10.0**.
+* **DSA**: **150+ problems** solved on LeetCode, GFG, and HackerRank (Strong in Arrays, Trees, DP).
+* **Languages**: English, Hindi, Marathi.
 
 ---
 
-### [cite_start]📫 Let's Connect! [cite: 2]
+### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parimal-deshmukh-3388aa220/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshuldeshmukh6323@gmail.com)
