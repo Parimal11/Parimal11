@@ -35,7 +35,7 @@ I am a **Java Software Engineer** with **1 year of experience** at **Cisco**, sp
 ### 📈 Education & Achievements
 
 * **Education**: B.E. in Computer Science | **CGPA: 8.42/10.0**.
-* **DSA**: **150+ problems** solved on LeetCode, GFG, and HackerRank (Strong in Arrays, Trees, DP).
+* **DSA**: **250+ problems** solved on LeetCode, GFG, and HackerRank (Strong in Arrays, Trees, DP).
 * **Languages**: English, Hindi, Marathi.
 
 ---
@@ -44,3 +44,10 @@ I am a **Java Software Engineer** with **1 year of experience** at **Cisco**, sp
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parimal-deshmukh-3388aa220/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshuldeshmukh6323@gmail.com)
+
+---
+
+### 🛠 Coding Profiles
+
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-298d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/parimal11)
+
