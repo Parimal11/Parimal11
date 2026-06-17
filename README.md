@@ -27,8 +27,12 @@ I am a **Java Software Engineer** with **1 year of experience** at **Cisco**, sp
 
 ### 📂 Key Projects
 
+* **PayFlow – Distributed Payment & Ledger System**: **— Java, Spring Boot, Kafka, PostgreSQL** : Designed **Event-Driven Payment Architecture** using **Java,Spring Boot, Kafka** separating API ingestion from asynchronous transaction processing. Implemented **Idempotent** consumers with **ACID**-compliant double-entry ledger ensuring financial correctness under concurrent workloads .Built reconciliation services validating ledger integrity and preventing duplicate transactions.
+* **JiraX AI – AI Project Management Engine** : **React, FastAPI, Google Gemini 3.0, Java Spring Boot** : Built **AI-powered project management prototype** automating GitHub repository analysis and sprint planning . Designed migration roadmap from monolith to microservices using **Spring Boot backend and Python** for AI inference
+Developed **REST APIs** orchestrating AI inference and repository analysis workflows
 * **Healthcare Medicine E-Commerce Platform**: Built a full-stack medicine delivery app with **20+ RESTful APIs** and zero-downtime releases on **AWS**.
 * **Travel Booking Application**: Developed a multi-mode booking platform (cabs, autos, buses) using **Spring Data JPA** for complex database operations.
+
 
 ---
 
