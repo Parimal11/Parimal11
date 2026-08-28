@@ -54,4 +54,5 @@ Developed **REST APIs** orchestrating AI inference and repository analysis workf
 ### 🛠 Coding Profiles
 
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-298d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/parimal11)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anshuldeshmukh6323/)
 
