@@ -39,7 +39,8 @@ Developed **REST APIs** orchestrating AI inference and repository analysis workf
 ### 📈 Education & Achievements
 
 * **Education**: B.E. in Computer Science | **CGPA: 8.42/10.0**.
-* **DSA**: **250+ problems** solved on LeetCode, GFG, and HackerRank (Strong in Arrays, Trees, DP).
+* **DSA**: **500+ problems** solved on LeetCode, GFG, and HackerRank (Strong in Arrays, Trees, DP).
+* **Achievements** : **Knight Level Badge** LeetCode. **Top 3%** LeetCode.
 * **Languages**: English, Hindi, Marathi.
 
 ---
